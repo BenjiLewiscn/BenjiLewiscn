@@ -1,6 +1,6 @@
 ## Hi, I’m Ben Lau @BenjiLewiscn
 
-<span style="color:red">TL;DR</span>
+<strong style="color:red"> TL;DR </strong>
 
 Currently working as a SDE for ProkoTech on [ProkoPark](https://www.prokopark.us/)
 
