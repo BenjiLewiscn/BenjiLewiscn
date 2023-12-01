@@ -2,7 +2,9 @@
 
 <strong style="color:red"> TL;DR </strong>
 
-Currently working as a SDE for ProkoTech on [ProkoPark](https://www.prokopark.us/)
+CTO for [ProkoPark](https://www.prokopark.us/)
+
+Amazon SDE intern alumni
 
 Contact: [Personal](benjilewiscn@gmail.com) | [Work](yzh.ben.lau@gmail.com)
 
