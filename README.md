@@ -2,9 +2,11 @@
 
 <strong style="color:red"> TL;DR </strong>
 
-CTO for [ProkoPark](https://www.prokopark.us/)
+SDE intern alumnus @ Amazon
 
-Amazon SDE intern alumni
+SDE intenr @ CIPRA.ai
+
+Co-Founder, CTO @ [ProkoPark](https://www.prokopark.us/)
 
 Contact: [Personal](benjilewiscn@gmail.com) | [Work](yzh.ben.lau@gmail.com)
 
