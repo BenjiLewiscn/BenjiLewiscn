@@ -4,7 +4,7 @@
 
 SDE intern alumnus @ Amazon
 
-SDE intenr @ CIPRA.ai
+SDE intern @ CIPRA.ai
 
 Co-Founder, CTO @ [ProkoPark](https://www.prokopark.us/)
 
