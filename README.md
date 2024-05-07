@@ -8,6 +8,6 @@ SDE intern @ CIPRA.ai
 
 Co-Founder, CTO @ [ProkoPark](https://www.prokopark.us/)
 
-Contact: [Personal](benjilewiscn@gmail.com) | [Work](yzh.ben.lau@gmail.com)
+Contact: [email](yzh.ben.lau@gmail.com)
 
 ### [ENTER A DRAW TO WIN $10000](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
